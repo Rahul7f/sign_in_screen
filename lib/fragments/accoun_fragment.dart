@@ -18,6 +18,7 @@ class AccountFragment extends StatelessWidget {
         children: [
           AccountDetailsTile(mediaQueryData: mediaQueryData),
           VSizedBox(mediaQueryData: mediaQueryData),
+          // fuck u 
           Row(
             children: [
               const Text("Balance"),
